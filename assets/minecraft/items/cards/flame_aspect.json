@@ -7,13 +7,13 @@
         "when": "gui",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/cards_gui/flame"
+          "model": "minecraft:item/cards_gui/flame_aspect"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/cards/flame"
+      "model": "minecraft:item/cards/flame_aspect"
     }
   }
 }
