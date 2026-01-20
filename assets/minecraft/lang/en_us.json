@@ -61,6 +61,18 @@
 "traits.water.des":"The entity is buffed by aquatic buffs",
 "traits.wither":"Withering",
 "traits.wither.des":"The entity is immune to wither damage",
+"traits.passive":"Passive",
+"traits.passive.des":"The entity can be spawned anywhere",
+"traits.lunging":"Lunging",
+"traits.lunging.des":"The entity deals damage when travelling linearly through units, and ignores building blocking",
+"traits.arthropod":"Arthropod",
+"traits.arthropod.des":"The entity is immune to slowness",
+"traits.frozen":"Frozen",
+"traits.frozen.des":"The entity is immune to the cold",
+"traits.evasive":"Evasive",
+"traits.evasive.des":"The entity has a 50%% chance to ignore damage",
+"traits.illager":"Illager",
+"traits.illager.des":"The entity is buffed by illager buffs",
 "selected":"Selected",
 "arena.moss":"Moss Stadium",
 "arena.nether":"Nether",
@@ -1006,4 +1018,5 @@
 "card.zombie":"Zombie",
 "card.zombie.lore.0":"",
 "card.zombie_villager":"Zombie Villager",
-"card.zombie_villager.lore.0":""}
+"card.zombie_villager.lore.0":""
+}
