@@ -70,7 +70,7 @@
 "traits.frozen":"Frozen",
 "traits.frozen.des":"The entity is immune to the cold",
 "traits.evasive":"Evasive",
-"traits.evasive.des":"The entity has a 50%% chance to ignore damage",
+"traits.evasive.des":"The entity has a 50% chance to ignore damage",
 "traits.illager":"Illager",
 "traits.illager.des":"The entity is buffed by illager buffs",
 "selected":"Selected",
@@ -146,6 +146,10 @@
 "quests.deckmaster.des":"Defeat someone with a deckmaster skin",
 "deck.version.old":"Unfortunately, due to your deck being from a previous version, your decks were set to the default deck, you still have all your cards, you just need to rebuild your decks.",
 "deck.version.incompatible":"Unfortunately, due to the change of data format in Minecraft, your deck is no longer supported.",
+"deck.code_book":"Deck Code",
+"deck.code_book.des":"Copy the code inside to share with others!",
+"deck.import.fail":"Deck import failed, the code is not valid!",
+"deck.export.fail":"Deck export failed, you must be holding a valid deck!",
 "cost":"¢",
 "health":"♥",
 "armor":"🛡",
@@ -980,7 +984,7 @@
 "card.squid.lore.2":"for 5 turns",
 "card.stray":"Stray",
 "card.stray.lore.0":" Frosted Arrows - shots",
-"card.stray.lore.1":"have a 50%% chance of giving",
+"card.stray.lore.1":"have a 50% chance of giving",
 "card.stray.lore.2":"slowness for 7 turns",
 "card.tadpole":"Tadpole",
 "card.tadpole.lore.0":" Growth - Becomes a frog",
@@ -1018,5 +1022,4 @@
 "card.zombie":"Zombie",
 "card.zombie.lore.0":"",
 "card.zombie_villager":"Zombie Villager",
-"card.zombie_villager.lore.0":""
-}
+"card.zombie_villager.lore.0":""}

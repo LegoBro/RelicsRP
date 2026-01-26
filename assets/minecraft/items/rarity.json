@@ -1,0 +1,40 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_data",
+        "cases": [
+          {
+            "when": {
+              "card": {
+                "rarity": "common"
+              }
+            },
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:block/acacia_button_inventory"
+            }
+          },
+          {
+            "when": {
+              "card": {
+                "rarity": "uncommon"
+              }
+            },
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:block/bamboo_button_inventory"
+            }
+          }
+        ]
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/diamond"
+      }
+    ]
+  }
+}
