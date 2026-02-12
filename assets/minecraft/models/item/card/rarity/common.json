@@ -1,0 +1,4 @@
+{
+"parent": "item/card/rarity", 
+"textures": {"rarity": "item/card/front_common"}
+}
