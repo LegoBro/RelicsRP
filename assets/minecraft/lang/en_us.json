@@ -34,6 +34,14 @@
 "sign.deck_builder.code_book":"Code Book",
 "sign.deck_builder.export":"Export",
 "sign.deck_builder.import":"Import",
+"sign.credits":"Credits",
+"sign.credit.translation":"Translation",
+"sign.credit.language.ja_jp":"Japanese",
+"sign.credit.language.ru_ru":"Russian",
+"sign.credit.language.ch":"Chinese",
+"sign.credit.supporter":"Supporter",
+"sign.credit.brickmasons":"Brickmasons",
+"sign.credit.brickmasons.team":"Team",
 "deck_builder.manager":"Deck Manager",
 "deck_builder.cosmetics":"Cosmetics",
 "villager.redstone":"RedstoneBattery",
@@ -1056,5 +1064,7 @@
 "card.wolf":"Wolf",
 "card.wolf.lore.0":"",
 "card.zombie":"Zombie",
-"card.zombie.lore.0":""
+"card.zombie.lore.0":"",
+"card.zombie_villager":"Zombie Villager",
+"card.zombie_villager.lore.0":""
 }
