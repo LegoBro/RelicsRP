@@ -2,7 +2,7 @@
   "coin_earn": {
   "sounds": [
    {"name": "coin_earn",
-    "stream":"false"
+    "stream": false
    }
   ]
  },
